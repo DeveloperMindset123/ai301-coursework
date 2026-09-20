@@ -230,7 +230,10 @@ rather than eyeballed" work I said I wanted, and it is genuine information
 retrieval mathematics rather than application glue. It is Python, it is one
 named file, and it reproduces locally with no GPU or hardware.
 
-The issue estimates 4 to 6 hours.
+The issue estimates 4 to 6 hours, and I have 8 to 10 hours free over the
+weekend to work on it. That margin is why I took this over the tier-1
+alternative: the smaller issue would have fitted more comfortably, but I have
+enough time that the larger surface is a reasonable risk rather than a gamble.
 
 **2. What the verdict identified correctly, and what I weighed that the rubric
 could not.**
