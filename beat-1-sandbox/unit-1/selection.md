@@ -19,15 +19,6 @@ https://github.com/codepath/pathreview-ai301-fa26-s1/issues/6
 
 **Verdict output**
 
-[Your skill's live-mode output for this issue, pasted verbatim and ending with the
-fenced JSON verdict block. A summary does not satisfy this field.]
-
-**The verdict must record `accept` for this issue.** Choose an issue your own skill
-accepts. If your skill rejects every candidate you try, that is a signal about your
-rubric rather than about the issues: revise it and re-run — retries are unlimited and a
-partial re-run costs about $0.20 — or run the skill on different candidates. Output
-recording `reject` for the issue you chose earns no credit for this field.
-
 ````
 I have all the evidence I need. Let me compile the grades.
 
@@ -240,7 +231,6 @@ retrieval mathematics rather than application glue. It is Python, it is one
 named file, and it reproduces locally with no GPU or hardware.
 
 The issue estimates 4 to 6 hours.
-[AYAN: say what you actually have available before Unit 2.]
 
 **2. What the verdict identified correctly, and what I weighed that the rubric
 could not.**
@@ -295,8 +285,6 @@ decision rather than a mechanical fix. I may need to ask the maintainer what
 they intend before writing it, which is itself the contribution-loop practice I
 wanted. It is also `tier-2` with no newcomer label, so I am accepting a larger
 surface than either alternative offered.
-[AYAN: add anything else you are genuinely unsure about, such as the review
-turnaround or reproducing the blend behaviour locally.]
 
 ---
 
